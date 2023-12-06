@@ -8,6 +8,13 @@ var createHelloWorld = function() {
     }
 };
 
+/*
+var createHelloWorld = function() {
+    
+    ()=>"Hello world"
+};*/
+
+
 /**
  * const f = createHelloWorld();
  * f(); // "Hello World"
